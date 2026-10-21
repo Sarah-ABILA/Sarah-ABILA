@@ -21,6 +21,7 @@ Avant le code : **30 ans de terrain** dans le commerce, la gestion d'entreprise 
 | 📞 **Test technique Aircall** | 5 bugs corrigés, 3 fonctionnalités ajoutées, refonte UI | React · TypeScript · GraphQL | [Code](https://github.com/Sarah-ABILA/frontend-hiring-test) · [Démo](https://frontend-hiring-test-azure.vercel.app) |
 | 🎬 **Watchlist** | Cinémathèque personnelle, projet solo de bout en bout | Rails 8 · PostgreSQL · Devise | [Code](https://github.com/Sarah-ABILA/watchlist) |
 | 🎙️ **ChefLine** | Prototype de prise de commande vocale pour un restaurant | React · TypeScript · n8n · Whisper | [Code](https://github.com/Sarah-ABILA/chefline-pwa) · [Prototype](https://chefline-pwa.vercel.app) |
+| 🩺 **MediCheck** · 🛒 **ShopAssist AI** | Workflows IA no-code : analyse d'interactions médicamenteuses, FAQ automatique pour commerçants | n8n · Airtable · Softr | _Démos privées_ |
 | 🏨 **LastRoom** | Réservation hôtelière avec offres flash — projet de certification RNCP | Rails 8 · PostgreSQL · Devise | _Code non public_ |
 
 ---
@@ -34,4 +35,4 @@ Avant le code : **30 ans de terrain** dans le commerce, la gestion d'entreprise 
 ## 🔗 Liens
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sarah--abila-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sarah-abila)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=flat&logo=notion)](https://marshy-bandicoot-bc4.notion.site/Portfolio-Sarah-Abila-2e57ec8d73b78056a927e712ef592519)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sarah--abila.github.io-5B3A8E?style=flat&logo=githubpages&logoColor=white)](https://sarah-abila.github.io/Portfolio/)
